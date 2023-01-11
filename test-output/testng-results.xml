@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T18:03:33Z" name="Suite" finished-at="2023-01-09T18:03:33Z" duration-ms="231">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T18:03:33Z" name="Test" finished-at="2023-01-09T18:03:33Z" duration-ms="231">
+      <class name="TestPackage.MortgageLoan">
+        <test-method signature="MortgageLoanAPPLoging()[pri:0, instance:TestPackage.MortgageLoan@45d2ade3]" started-at="2023-01-09T19:03:33Z" name="MortgageLoanAPPLoging" finished-at="2023-01-09T19:03:33Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MortgageLoanAPPLoging -->
+        <test-method signature="MortgageLoanBranch()[pri:0, instance:TestPackage.MortgageLoan@45d2ade3]" started-at="2023-01-09T19:03:33Z" name="MortgageLoanBranch" finished-at="2023-01-09T19:03:33Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MortgageLoanBranch -->
+        <test-method signature="MortgageLoanWebloging()[pri:0, instance:TestPackage.MortgageLoan@45d2ade3]" started-at="2023-01-09T19:03:33Z" name="MortgageLoanWebloging" finished-at="2023-01-09T19:03:33Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MortgageLoanWebloging -->
+      </class> <!-- TestPackage.MortgageLoan -->
+      <class name="TestPackage.FixedLoan">
+        <test-method signature="FixedLoanAPPLoging()[pri:0, instance:TestPackage.FixedLoan@727eb8cb]" started-at="2023-01-09T19:03:33Z" name="FixedLoanAPPLoging" finished-at="2023-01-09T19:03:33Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FixedLoanAPPLoging -->
+        <test-method signature="FixedLoanBranch()[pri:0, instance:TestPackage.FixedLoan@727eb8cb]" started-at="2023-01-09T19:03:33Z" name="FixedLoanBranch" finished-at="2023-01-09T19:03:33Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FixedLoanBranch -->
+        <test-method signature="FixedLoanWebloging()[pri:0, instance:TestPackage.FixedLoan@727eb8cb]" started-at="2023-01-09T19:03:33Z" name="FixedLoanWebloging" finished-at="2023-01-09T19:03:33Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FixedLoanWebloging -->
+      </class> <!-- TestPackage.FixedLoan -->
+      <class name="TestPackage.FlexiLoan">
+        <test-method signature="FlexiLoanAPPLoging()[pri:0, instance:TestPackage.FlexiLoan@6aa61224]" started-at="2023-01-09T19:03:33Z" name="FlexiLoanAPPLoging" finished-at="2023-01-09T19:03:33Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlexiLoanAPPLoging -->
+        <test-method signature="FlexiLoanBranch()[pri:0, instance:TestPackage.FlexiLoan@6aa61224]" started-at="2023-01-09T19:03:33Z" name="FlexiLoanBranch" finished-at="2023-01-09T19:03:33Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlexiLoanBranch -->
+        <test-method signature="FlexiLoanWebloging()[pri:0, instance:TestPackage.FlexiLoan@6aa61224]" started-at="2023-01-09T19:03:33Z" name="FlexiLoanWebloging" finished-at="2023-01-09T19:03:33Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlexiLoanWebloging -->
+      </class> <!-- TestPackage.FlexiLoan -->
+      <class name="TestPackage.CarLoan">
+        <test-method signature="CarLoanAPPLoging()[pri:0, instance:TestPackage.CarLoan@5b7a8434]" started-at="2023-01-09T19:03:33Z" name="CarLoanAPPLoging" finished-at="2023-01-09T19:03:33Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanAPPLoging -->
+        <test-method signature="CarLoanBranch()[pri:0, instance:TestPackage.CarLoan@5b7a8434]" started-at="2023-01-09T19:03:33Z" name="CarLoanBranch" finished-at="2023-01-09T19:03:33Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanBranch -->
+        <test-method signature="CarLoanWebloging()[pri:0, instance:TestPackage.CarLoan@5b7a8434]" started-at="2023-01-09T19:03:33Z" name="CarLoanWebloging" finished-at="2023-01-09T19:03:33Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanWebloging -->
+      </class> <!-- TestPackage.CarLoan -->
+      <class name="TestPackage.CarBuy">
+        <test-method signature="CarBuyAPPLoging()[pri:0, instance:TestPackage.CarBuy@39d9314d]" started-at="2023-01-09T19:03:33Z" name="CarBuyAPPLoging" finished-at="2023-01-09T19:03:33Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarBuyAPPLoging -->
+        <test-method signature="CarBuyBranch()[pri:0, instance:TestPackage.CarBuy@39d9314d]" started-at="2023-01-09T19:03:33Z" name="CarBuyBranch" finished-at="2023-01-09T19:03:33Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarBuyBranch -->
+        <test-method signature="CarBuyWebloging()[pri:0, instance:TestPackage.CarBuy@39d9314d]" started-at="2023-01-09T19:03:33Z" name="CarBuyWebloging" finished-at="2023-01-09T19:03:33Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarBuyWebloging -->
+      </class> <!-- TestPackage.CarBuy -->
+      <class name="TestPackage.SmartLaon">
+        <test-method signature="SmartLoanAPPLoging()[pri:0, instance:TestPackage.SmartLaon@b978d10]" started-at="2023-01-09T19:03:33Z" name="SmartLoanAPPLoging" finished-at="2023-01-09T19:03:33Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SmartLoanAPPLoging -->
+        <test-method signature="SmartLoanBranch()[pri:0, instance:TestPackage.SmartLaon@b978d10]" started-at="2023-01-09T19:03:33Z" name="SmartLoanBranch" finished-at="2023-01-09T19:03:33Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SmartLoanBranch -->
+        <test-method signature="SmartLoanWebloging()[pri:0, instance:TestPackage.SmartLaon@b978d10]" started-at="2023-01-09T19:03:33Z" name="SmartLoanWebloging" finished-at="2023-01-09T19:03:33Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SmartLoanWebloging -->
+      </class> <!-- TestPackage.SmartLaon -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
